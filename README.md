@@ -1,2 +1,7 @@
 # machmell-conservancy
-Machmell Conservancy area scenery for FS2020
+Machmell Conservancy Area Scenery For FS2020
+
+Installation:
+
+Place the extracted truemetro-airport-mach-machmell folder into the
+Packages/Community directory.
