@@ -1,0 +1,31 @@
+<AssetPackage Name="truemetro-airport-mach-machmell" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Machmell Fisheries</Title>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\truemetro-airport-mach-machmell\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\truemetro-airport-mach-machmell\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placeholder-name">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery/world/scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,8 @@
+<Project Version="2" Name="mach" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\truemetro-airport-mach-machmell.xml</Package>
+	</Packages>
+</Project>
+

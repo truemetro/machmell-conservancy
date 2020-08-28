@@ -1,8 +1,0 @@
-<Project Version="2" Name="Machmell" FolderName="Packages">
-	<OutputDirectory>.</OutputDirectory>
-	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
-	<Packages>
-		<Package>PackageDefinitions\airport-cby2-machmell.xml</Package>
-	</Packages>
-</Project>
-
