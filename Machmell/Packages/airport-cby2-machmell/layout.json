@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/airport-cby2-machmell/Thumbnail.jpg",
+      "size": 78933,
+      "date": 132428104873491718
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132429501393032945
+    },
+    {
+      "path": "scenery/MACHMELL.BGL",
+      "size": 5750,
+      "date": 132429126832915017
+    },
+    {
+      "path": "scenery/machmell_poly.bgl",
+      "size": 2728,
+      "date": 132429696106043484
+    }
+  ]
+}
