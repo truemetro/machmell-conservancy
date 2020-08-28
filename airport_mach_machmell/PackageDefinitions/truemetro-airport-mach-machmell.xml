@@ -15,10 +15,10 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\truemetro-airport-mach-machmell\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\truemetro-airport-mach-machmell\</OutputDir>
+			<AssetDir>PackageDefinitions\truemetro-airport-mach-machmell\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\truemetro-airport-mach-machmell</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="placeholder-name">
+		<AssetGroup Name="machmell-conservancy">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
