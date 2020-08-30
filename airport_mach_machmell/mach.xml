@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\truemetro-airport-mach-machmell.xml</Package>
+		<Package>PackageDefinitions\truemetroxflint-airport-cby2-machmell.xml</Package>
 	</Packages>
 </Project>
 
